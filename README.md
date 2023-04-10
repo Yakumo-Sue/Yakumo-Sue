@@ -11,8 +11,9 @@
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
-
+<p>
+<p align="left">
+  
 - 💬 Languages I use
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
@@ -34,6 +35,11 @@
 - 🖇 Some of my favorite open source projects
 
 - [C Language Learning]:
+  
+
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
+</p>
 
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
