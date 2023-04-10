@@ -10,8 +10,6 @@
 <h1 align="Center">  Hi, Here is <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> , I'm Yakumo-Sue  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /> </h1>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
-
-<p>
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
 <p align="left">
@@ -36,18 +34,8 @@
 
 - 🖇 Some of my favorite open source projects
 
-- [C Language Learning]:
+  - [C Language Learning]:
   
-
-</p>
-
-
-
-
-
-
-
-
 
 
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
