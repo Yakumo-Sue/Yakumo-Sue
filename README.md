@@ -33,7 +33,7 @@
 
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
-[![Yakumo-Sue's github stats](https://github-readme-stats.vercel.app/api?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats?theme=react-dark)
+[![Yakumo-Sue's github stats](https://github-readme-stats.vercel.app/api?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=Yakumo-Sue&theme=react-dark)
 
