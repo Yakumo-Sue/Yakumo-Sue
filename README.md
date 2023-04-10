@@ -31,10 +31,7 @@
 
 - 🖇 Some of my favorite open source projects
 
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-25292d?&style=for-the-badge&logo=github&logoColor=white)
-![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+- [C Language Learning]:
 
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
