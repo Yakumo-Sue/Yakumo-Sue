@@ -34,7 +34,7 @@
 
 - 🖇 Some of my favorite open source projects
 
-  - [C Language Learning]: https://github.com/hairrrrr/C-CrashCourse "C 语言学习"
+  - [C Language Learning](https://github.com/hairrrrr/C-CrashCourse) "C 语言学习"
   - 
   
 
