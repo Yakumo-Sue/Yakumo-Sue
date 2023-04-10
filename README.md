@@ -34,7 +34,7 @@
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
 [![Sue-52's github stats](https://github-readme-stats.vercel.app/api?username=Sue-52)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
-a href="https://github.com/Yakumo-Sue/github-stats">
+<a href="https://github.com/Yakumo-Sue/github-stats">
 <img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
