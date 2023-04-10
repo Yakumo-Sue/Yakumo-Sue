@@ -13,7 +13,7 @@
 
 - 💬 Languages I use
 
-![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C-Language&logoColor=white)
+![C](https://img.shields.io/badge/C-Language-blue%20-%23E34F26.svg?&style=for-the-badge&logo=C-Language&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
 
