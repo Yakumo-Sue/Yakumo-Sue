@@ -35,7 +35,11 @@
 - 🖇 Some of my favorite open source projects
 
   - [C Language Learning](https://github.com/hairrrrr/C-CrashCourse) "C 语言学习"
-  - 
+  - [C Project ①](https://github.com/DoctorWkt/acwj) "C 语言实现编译器"
+  - [C++ Learning ①](https://github.com/Light-City/CPlusPlusThings) "C++ 那些事"
+  - [C++ Learning ②](https://github.com/0voice/introduce_c-cpp_manual) "C/C++ 新手学习的入门项目"
+  - [C++ Learning Deep ①](https://github.com/0voice/cpp_new_features) "C++ 深入学习 一"
+  - [C++ Learning Deep ②](https://github.com/balloonwj/CppGuide) "C++ 深入学习 二"
   
 
 
