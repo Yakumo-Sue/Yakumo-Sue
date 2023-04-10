@@ -15,7 +15,7 @@
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=blue)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-orange?&style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black)
