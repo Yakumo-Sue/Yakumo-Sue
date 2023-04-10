@@ -12,6 +12,8 @@
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
 
 <p>
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
 <p align="left">
   
 - 💬 Languages I use
@@ -36,8 +38,6 @@
 
 - [C Language Learning]:
   
-
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
 </p>
 
