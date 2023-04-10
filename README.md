@@ -1,5 +1,11 @@
 <p align="Center" ><img src="https://raw.githubusercontent.com/Sue-52/PicGo/main/images/%E5%A4%A9%E5%BA%AD%E5%8F%B7-%E9%98%BF%E5%AE%99%E6%96%AF.jpg" ></p>
 
+<p align="center">
+  <a href="https://twitter.com/EdmondSue2"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+
 <h1 align="Center">  Hi, Here is <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> , I'm Yakumo-Sue  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /> </h1>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
