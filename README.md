@@ -36,9 +36,12 @@
 [![Yakumo-Sue's github stats](https://github-readme-stats.vercel.app/api?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=Yakumo-Sue&theme=react-dark)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+<a href="https://github.com/Yakumo-Sue/github-stats">
+<img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&layout=compact&langs_count=10&theme=react) -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yakumo-Sue&theme=react) -->
   
 <h2 align="Center"> About Yakumo-Sue Most Used Languages </h2>
 
