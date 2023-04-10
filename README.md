@@ -36,11 +36,11 @@
 x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 ![Yakumo-Sue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakumo-Sue&show_icons=true&theme=radical)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=Yakumo-Sue&theme=react-dark)
-
   
 <h2 align="Center"> About Yakumo-Sue Most Used Languages </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Yakumo-Sue/Yakumo-Sue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
