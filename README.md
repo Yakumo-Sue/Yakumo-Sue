@@ -41,6 +41,15 @@
 
 </p>
 
+
+
+
+
+
+
+
+
+
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
 x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
