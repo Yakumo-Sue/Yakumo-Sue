@@ -23,7 +23,7 @@
 - 🛠 Some of the technologies I have worked with
 
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?&style=for-the-badge&logo=visualstudiocode&logoColor=Blue)
-![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%202022-blue?&style=for-the-badge&logo=visualstudio&logoColor=purple)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%202022-red?&style=for-the-badge&logo=visualstudio&logoColor=purple)
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Linux](https://img.shields.io/badge/-Linux-7b7c7b?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-759f62?style=for-the-badge&logo=node.js&logoColor=339933)
