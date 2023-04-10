@@ -31,15 +31,19 @@
 ![GitHub](https://img.shields.io/badge/github%20-25292d?&style=for-the-badge&logo=github&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
-<h2 align="Center"> Some Stats About Sue-52 </h2>
+<h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
 [![Sue-52's github stats](https://github-readme-stats.vercel.app/api?username=Sue-52)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
+a href="https://github.com/Yakumo-Sue/github-stats">
+<img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Yakumo-Sue/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
   
-<h2 align="Center"> About Sue-52 Most Used Languages </h2>
+<h2 align="Center"> About Yakumo-Sue Most Used Languages </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sue-52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
-Sue-52/Sue-52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yakumo-Sue/Yakumo-Sue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
