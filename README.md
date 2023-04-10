@@ -33,8 +33,8 @@
 
 <h2 align="Center"> Some Stats About Yakumo-Sue </h2>
 
-[![Sue-52's github stats](https://github-readme-stats.vercel.app/api?username=Sue-52)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
+[![Yakumo-Sue's github stats](https://github-readme-stats.vercel.app/api?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=getlost01&theme=react-dark)
 <a href="https://github.com/getlost01/github-stats">
 <img src="https://github.com/getlost01/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
