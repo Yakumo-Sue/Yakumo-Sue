@@ -60,7 +60,7 @@ x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 常用语言 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&langs_count=8&width=100%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakumo-Sue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 每周代码数据量 -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats) -->
 
