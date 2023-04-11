@@ -65,19 +65,11 @@ x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yakumo-Sue)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- 项目展示 -->
-<h3 align="Center"> Yakumo-Sue’s Blog  </h3>
+<h2 align="Center"> Yakumo-Sue’s Projects  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <h3 align="Center"> Yakumo-Sue’s Blog  </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=Yakumo-Sue.github.io" />
 </a>
-<h3 align="Center"> Yakumo-Sue’s Blog  </h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=Yakumo-Sue.github.io" />
-</a>
-<h3 align="Center"> Yakumo-Sue’s Blog  </h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=Yakumo-Sue.github.io" />
-</a>
-
 <!---
 Yakumo-Sue/Yakumo-Sue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
