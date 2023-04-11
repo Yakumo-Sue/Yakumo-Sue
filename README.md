@@ -67,9 +67,9 @@ x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 <!-- 项目展示 -->
 <h2 align="Center"> Yakumo-Sue’s Projects  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <h3 align="left"> Yakumo-Sue’s Blog </h3>
+  <h3 align="left" width="38%"> Yakumo-Sue’s Blog </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=Yakumo-Sue.github.io" />
-  <h3 align="left"> Yakumo-Sue’s C Language Learning </h3>
+  <h3 align="left" width="38%"> Yakumo-Sue’s C Language Learning </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=C-language-learning" />
 </a>
 <!---
