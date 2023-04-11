@@ -67,8 +67,9 @@ x![GitHub Streak](https://streak-stats.demolab.com/?user=Yakumo-Sue&theme=react)
 <!-- 项目展示 -->
 <h2 align="Center"> Yakumo-Sue’s Projects  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <h3 align="Center"> Yakumo-Sue’s Blog  </h3>
+  <h3 align="left"> Yakumo-Sue’s Blog </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=Yakumo-Sue.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yakumo-Sue&repo=C-language-learning" />
 </a>
 <!---
 Yakumo-Sue/Yakumo-Sue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
