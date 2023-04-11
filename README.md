@@ -12,9 +12,7 @@
 <h1 align="Center">  Hi, Here is <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> , I'm Yakumo-Sue  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" /> </h1>
 
 <!-- 动态 Github 小绿点 -->
-<p align="Center">
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
-</p>
 <!-- 右侧动图展示 -->
 <img align="right" width="38%" src="https://raw.githubusercontent.com/Sue-52/PicGo/main/NiYan.gif"/>
 
